@@ -70,7 +70,7 @@ highlight {*.[ch]pp,*.c,*.h,*.cc,*.ml,*.mli,*.py,*.pyc,*.pyd,*.pyo,*.php,*.js,
           \*.scala,*.java,*.jar,*.xul,*.clj,*.cljc,*.pl,*.pm,*.t,*.cljs,*.edn,
           \*.rb,*.dart,*.f#,*.fs,*.fsi,*.fsscript,*.fsx,*.rlib,*.rs,*.d,*.erl,
           \*.hrl,*.ai,*.psb,*.psd,*.jsx,*.kts,*.kt}
-          \ cterm=bold ctermfg=default ctermbg=default
+          \ cterm=bold ctermfg=LightGreen ctermbg=default
 " different color for files with all UPPERCASE name
 " these three highlight command work together
 highlight /^[A-Z_-]+\.[a-zA-Z0-9.]+$/I cterm=none ctermfg=Red ctermbg=default

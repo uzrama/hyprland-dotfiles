@@ -1,9 +1,9 @@
-sw_volume: 50
+sw_volume: 78
 audio_device_state:1:PipeWire Audio Server
 audio_device_state:1:my_fifo
 state: pause
-current: 24
-time: 131.076000
+current: 19
+time: 7.493000
 random: 0
 repeat: 1
 single: 1
@@ -37,4 +37,7 @@ playlist_begin
 22:Klavdia Petrivna - Уже світає.mp3
 23:Klavdia Petrivna — Театр.mp3
 24:morgenshtern-dom-london-praga-nicca.mp3
+25:Тимур Муцураев Если Духом Ты Слаб.mp4
+26:Lizer Пачка Сигарет.mp4
+27:viktor-coy_-_pachka-sigaret.mp3
 playlist_end
