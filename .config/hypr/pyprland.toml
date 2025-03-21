@@ -1,0 +1,60 @@
+[pyprland]
+plugins = ["scratchpads", "magnify" ]
+
+[scratchpads.volume]
+command = "pavucontrol"
+unfocus = "hide"
+position = "1% 8%"
+lazy = true
+force_monitor = "eDP-2"
+
+[scratchpads.terminal]
+command = "kitty --class scratchpad-large"
+lazy = true
+
+
+[scratchpads.gpt]
+command = "kitty --class scratchpad-large tgpt -m"
+lazy = true
+
+
+[scratchpads.btm]
+command = "kitty --class scratchpad-large btm"
+lazy = true
+
+[scratchpads.nvtop]
+command = "kitty --class scratchpad-large nvtop"
+lazy = true
+
+[scratchpads.upgrade]
+command = "kitty --class scratchpad-large yay -Suy"
+lazy = true
+
+[scratchpads.topgrade-all]
+command = "kitty --class scratchpad-large fish -c 'upall'"
+lazy = true
+
+[scratchpads.bluetooth]
+command = "kitty --class scratchpad-large bluetui"
+animation = "fromRight"
+margin = 20
+lazy = true
+
+[scratchpads.wifi]
+command = "kitty --class scratchpad-large nmtui"
+animation = "fromRight"
+margin = 20
+lazy = true
+
+[scratchpads.network]
+command = "nm-connection-editor"
+animation = "fromRight"
+margin = 20
+lazy = true
+
+# [wallpapers]
+# path = "~/.config/hypr/theme/walls/"
+# interval = 60                                                                                                                                                                                               # change every hour
+# command = "swww img --transition-bezier 0.5,1.19,.8,.4 --transition-type wipe --transition-duration 2 --transition-fps 75 \"[file]\" && notify-send 'Wallpaper Changed' -i \"[file]\" --app-name=Wallpaper"
+# clear_command = "swww clear"
+# extensions = ["jpg", "png", "gif", "jpeg"]

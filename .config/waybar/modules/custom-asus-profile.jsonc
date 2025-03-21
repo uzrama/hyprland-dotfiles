@@ -1,0 +1,9 @@
+{
+  "custom/asus-profile": {
+    "exec": "~/.config/waybar/scripts/asus-profile.sh",
+    "return-type": "json",
+    "format": " {}",
+    "on-click": "asusctl profile -n",
+    "interval": 1,
+  },
+}
