@@ -1,4 +1,5 @@
 # Archlinux(Wayland) dotfile
+#### WM: [Hyprland](https://hyprland.org/)  
 #### OS: [ArchLinux](https://archlinux.org/)  
 #### File manager: [vifm](https://vifm.info/)  
 #### Resource monitor: [bottom](https://github.com/ClementTsang/bottom)  
