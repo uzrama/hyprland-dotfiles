@@ -1,9 +1,9 @@
-sw_volume: 40
+sw_volume: 48
 audio_device_state:1:PipeWire Audio Server
 audio_device_state:1:my_fifo
 state: pause
-current: 0
-time: 14.404
+current: 23
+time: 16.629
 random: 0
 repeat: 1
 single: 1
@@ -14,29 +14,27 @@ mixrampdelay: -1
 lastloadedplaylist: 
 playlist_begin
 0:Бриллианты - ЛСП.m4a
-1:deti-rave-na-kievskom-dinamo-mp3.mp3
-2:Pyrokinesis — Ад Пуст, Все Бесы Здесь.mp4
-3:Днями-Ночами.mp4
-4:Я Приду К Тебе С Клубникой В Декабре.mp4
-5:Электрофорез Фотограф (Feat. Superkomfort).mp4
-6:ddt_-_prosvistela.mp3
-7:macan-asphalt-8-mp3.mp3
-8:Каникулы на Марсе - Дедушка полная версия.mp3
-9:vladimir-klyavin-ya-odin-gulyayu-mp3.mp3
-10:Vladimir_Klyavin_-_Plany_.mp3
-11:Vladimir_Klyavin_-_Voenkom_.mp3
-12:АнимациЯ – Журавли.mp3
-13:red hot chil _peppers – Californication.mp3
-14:Barbara_Pravi_Voila.mp3
-15:RAM_-_Betonnaya_savanna.mp3
-16:Klavdiya_Petrovna_Ya_tobi_brehala_ya_tebe_ne_kohala.mp3
-17:Klavdia Petrivna - Дочка Самурая.mp3
-18:Klavdia Petrivna - Уже світає.mp3
-19:Klavdia Petrivna — Театр.mp3
-20:morgenshtern-dom-london-praga-nicca.mp3
-21:Тимур Муцураев Если Духом Ты Слаб.mp4
-22:Lizer Пачка Сигарет.mp4
-23:viktor-coy_-_pachka-sigaret.mp3
-24:The Animals - The house of the rising sun.mp3
-25:Miracle Of Sound Valhalla Calling (Duet Version) (Feat. Peyton Parrish).mp4
+1:Pyrokinesis — Ад Пуст, Все Бесы Здесь.mp4
+2:Днями-Ночами.mp4
+3:Я Приду К Тебе С Клубникой В Декабре.mp4
+4:Электрофорез Фотограф (Feat. Superkomfort).mp4
+5:ddt_-_prosvistela.mp3
+6:Каникулы на Марсе - Дедушка полная версия.mp3
+7:Vladimir_Klyavin_-_Plany_.mp3
+8:Vladimir_Klyavin_-_Voenkom_.mp3
+9:АнимациЯ – Журавли.mp3
+10:red hot chil _peppers – Californication.mp3
+11:Barbara_Pravi_Voila.mp3
+12:RAM_-_Betonnaya_savanna.mp3
+13:Klavdiya_Petrovna_Ya_tobi_brehala_ya_tebe_ne_kohala.mp3
+14:Klavdia Petrivna - Дочка Самурая.mp3
+15:Klavdia Petrivna - Уже світає.mp3
+16:Klavdia Petrivna — Театр.mp3
+17:morgenshtern-dom-london-praga-nicca.mp3
+18:Тимур Муцураев Если Духом Ты Слаб.mp4
+19:Lizer Пачка Сигарет.mp4
+20:viktor-coy_-_pachka-sigaret.mp3
+21:The Animals - The house of the rising sun.mp3
+22:Miracle Of Sound Valhalla Calling (Duet Version) (Feat. Peyton Parrish).mp4
+23:song_of_the_vikings_my_mother_told_me_-_my_mother_told_me.mp3
 playlist_end

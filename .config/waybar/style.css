@@ -65,7 +65,7 @@
 #custom-weather.snowyIcyNight,
 #custom-weather.default {
   background-color: alpha(@base, 0.9);
-  padding: 0 10px;
+  padding: 0px 10px;
   margin: 2px 4px 5px 4px;
   border-radius: 10px;
   /* box-shadow: 3px 3px 1px 1px alpha(@shadow, 0.7); */
@@ -112,7 +112,7 @@ window#waybar.hidden {
   border: 2px solid @border;
   padding: 0 10px;
   margin: 2px 4px 5px 4px;
-  box-shadow: 3px 3px 1px 1px alpha(@shadow, 0.7);
+  /* box-shadow: 3px 3px 1px 1px alpha(@shadow, 0.7); */
   border-radius: 10px;
   background-clip: padding-box;
 }
