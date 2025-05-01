@@ -1,6 +1,6 @@
 [
   {
-    "include": "~/.config/waybar/bars/bar-2.jsonc",
+    "include": "~/.config/waybar/bars/main-bar.jsonc",
     "height": 50,
     "position": "top",
     "layer": "top",
@@ -15,7 +15,7 @@
     "margin-right": 5,
   },
   {
-    "include": "~/.config/waybar/bars/bar-2.jsonc",
+    "include": "~/.config/waybar/bars/main-bar.jsonc",
     "height": 50,
     "position": "top",
     "layer": "top",

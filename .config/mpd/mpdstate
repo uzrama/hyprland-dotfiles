@@ -1,9 +1,9 @@
-sw_volume: 48
+sw_volume: 50
 audio_device_state:1:PipeWire Audio Server
 audio_device_state:1:my_fifo
 state: pause
-current: 23
-time: 16.629
+current: 17
+time: 26.37
 random: 0
 repeat: 1
 single: 1
@@ -37,4 +37,8 @@ playlist_begin
 21:The Animals - The house of the rising sun.mp3
 22:Miracle Of Sound Valhalla Calling (Duet Version) (Feat. Peyton Parrish).mp4
 23:song_of_the_vikings_my_mother_told_me_-_my_mother_told_me.mp3
+24:deti-rave-na-kievskom-dinamo.mp3
+25:macan-asphalt-8.mp3
+26:vladimir-klyavin-ya-odin-gulyayu.mp3
+27:ulica-vostok-zapomnyu-mp3.mp3
 playlist_end

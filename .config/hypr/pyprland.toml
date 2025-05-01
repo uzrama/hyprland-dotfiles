@@ -12,7 +12,6 @@ force_monitor = "eDP-2"
 command = "kitty --class scratchpad-large"
 lazy = true
 
-
 [scratchpads.gpt]
 command = "kitty --class scratchpad-large tgpt -m"
 lazy = true

@@ -390,6 +390,9 @@ nnoremap a :touch<space>
 " nnoremap r cw<c-a>
 " nnoremap R cW<c-a>
 
+" Clear trash
+nnoremap Tc :empty
+
 " Quit vimf
 nnoremap <C-q> :q<cr>
 
@@ -422,7 +425,8 @@ if executable('wl-copy')
     nnoremap yf :!echo -n %c:p | wl-copy %i &&
                 \ echo -n %c:p | wl-copy -p %i<cr>
 endif
-
+" Restore file or directory from trash directory
+nnoremap R :restore
 " Mappings for faster renaming
 nnoremap I cw<c-a>
 nnoremap cc cw<c-u>
