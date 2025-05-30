@@ -1,44 +1,14 @@
-sw_volume: 50
-audio_device_state:1:PipeWire Audio Server
+sw_volume: 100
+audio_device_state:1:Pipewire output
 audio_device_state:1:my_fifo
-state: pause
-current: 17
-time: 26.37
+state: stop
 random: 0
-repeat: 1
-single: 1
+repeat: 0
+single: 0
 consume: 0
 crossfade: 0
 mixrampdb: 0
 mixrampdelay: -1
 lastloadedplaylist: 
 playlist_begin
-0:Бриллианты - ЛСП.m4a
-1:Pyrokinesis — Ад Пуст, Все Бесы Здесь.mp4
-2:Днями-Ночами.mp4
-3:Я Приду К Тебе С Клубникой В Декабре.mp4
-4:Электрофорез Фотограф (Feat. Superkomfort).mp4
-5:ddt_-_prosvistela.mp3
-6:Каникулы на Марсе - Дедушка полная версия.mp3
-7:Vladimir_Klyavin_-_Plany_.mp3
-8:Vladimir_Klyavin_-_Voenkom_.mp3
-9:АнимациЯ – Журавли.mp3
-10:red hot chil _peppers – Californication.mp3
-11:Barbara_Pravi_Voila.mp3
-12:RAM_-_Betonnaya_savanna.mp3
-13:Klavdiya_Petrovna_Ya_tobi_brehala_ya_tebe_ne_kohala.mp3
-14:Klavdia Petrivna - Дочка Самурая.mp3
-15:Klavdia Petrivna - Уже світає.mp3
-16:Klavdia Petrivna — Театр.mp3
-17:morgenshtern-dom-london-praga-nicca.mp3
-18:Тимур Муцураев Если Духом Ты Слаб.mp4
-19:Lizer Пачка Сигарет.mp4
-20:viktor-coy_-_pachka-sigaret.mp3
-21:The Animals - The house of the rising sun.mp3
-22:Miracle Of Sound Valhalla Calling (Duet Version) (Feat. Peyton Parrish).mp4
-23:song_of_the_vikings_my_mother_told_me_-_my_mother_told_me.mp3
-24:deti-rave-na-kievskom-dinamo.mp3
-25:macan-asphalt-8.mp3
-26:vladimir-klyavin-ya-odin-gulyayu.mp3
-27:ulica-vostok-zapomnyu-mp3.mp3
 playlist_end
