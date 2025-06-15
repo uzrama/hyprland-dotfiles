@@ -109,7 +109,7 @@ window#waybar.hidden {
 
 #workspaces {
   background-color: alpha(@base, 0.9);
-  border: 1px solid @border;
+  border: 2px solid @border;
   padding: 0 10px;
   margin: 2px 4px 5px 4px;
   border-radius: 10px;
